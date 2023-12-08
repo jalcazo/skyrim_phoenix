@@ -5,6 +5,12 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 
 <img src="cover.jpg">
 
+# WARNINGS, Jaume
+
+| Problem | Solution |
+|----------|----------|
+| Problem | If your character can't move (not due to overencumbrance), open console (key next to 1) type "tfc" fly with the camera for a while, sae save WHILE in the flying camera, load, type tfc in console again. Solved! Jaume 8/12/23 |
+
 # Essential (many mods need these)
 
 | Number | Mod | Brief explanation | Spanish translation |
