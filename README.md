@@ -14,14 +14,24 @@ My modlist compilation for Skyrim AE, thanks to all the authors! I plan on doing
 | 3 | [Unofficial Skyrim Special Edition Patch - USSEP.](https://www.nexusmods.com/skyrimspecialedition/mods/266) | Corrects a lot of bugs. | [USSEP Spanish con Voces](https://www.nexusmods.com/skyrimspecialedition/mods/5334?tab=files) (actualizado 6 julio 2023). |
 | 4 | [Alternate Start - Live Another Life - SSE.](https://www.nexusmods.com/skyrimspecialedition/mods/272) | Alternative starts, skip the standard vanilla or do it, as you wish. | [Alternate Start SPANISH supercento]([https://www.nexusmods.com/skyrimspecialedition/mods/65264] Voz de la estatua de Mara doblada también. Funciona. |
 | 5 | [CBBE Body.](https://www.nexusmods.com/skyrimspecialedition/mods/198) | Nice body, UNP alternative gives nudes when looting females (not males), and it's quite un-immersive if you are doing an SFW playthrough. | Not needed. |
-| 7 | CBBE AE-CC Outfits. (same page as CBBE Body) | Includes all Anniversary Edition/Creation Club outfits using the "CBBE Curvy (Outfit)" preset and BodySlide files. No "body physics" as almost all outfits part of it shouldn't have it anyway. Use BodySlide to apply other body presets yourself. | Not needed. |
-| 8 | [Achievements Mods Enabler.](https://www.nexusmods.com/skyrimspecialedition/mods/245) (Enables achievements in Skyrim SE/AE with mods. SKSE64 support). | We want our Steam achievements back!<br> <img src="achievements/achievements.png"> | Not needed. Furthermore: You don't need his DLL loader if you are using SKSE64 (which you should!). |
-| 10 | [Inventory Functions SE-AE.](https://www.nexusmods.com/skyrimspecialedition/mods/13366) | Allow mods filtering the inventory by keyword. | Not needed. |
-| 11 | [Keyword Item Distributor (KID).](https://www.nexusmods.com/skyrimspecialedition/mods/55728) | Distributes keywords to different objects.  | Not needed. |
-| 12 | [MergeMapper.](https://www.nexusmods.com/skyrimspecialedition/mods/74689) | Allows Papyrus scripts to be aware and also allows other DLLs to support zmerge merges.  | Not needed. |
-| 13 | [Inventory Interface Information Injector.](https://www.nexusmods.com/skyrimspecialedition/mods/85702) | Inserts interesting information, including item icons, into the inventory interface. | [Inventory Interface Information Injector - Castellano - Spanish.](https://www.nexusmods.com/skyrimspecialedition/mods/94916) |
-| 14 | [PapyrusUtil SE - Modders Scripting Utility Functions.](https://www.nexusmods.com/skyrimspecialedition/mods/13048) | Adds several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  | Not needed. |
-| Total in this category: | 14 mods | | |
+| 6 | CBBE AE-CC Outfits. (same page as CBBE Body) | Includes all Anniversary Edition/Creation Club outfits using the "CBBE Curvy (Outfit)" preset and BodySlide files. No "body physics" as almost all outfits part of it shouldn't have it anyway. Use BodySlide to apply other body presets yourself. | Not needed. |
+| 7 | [PapyrusUtil SE - Modders Scripting Utility Functions.](https://www.nexusmods.com/skyrimspecialedition/mods/13048) | Adds several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  | Not needed. |
+| Total in this category: | 7 mods | | |
+
+# Menus
+
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [No Bethesda intro.](https://www.nexusmods.com/skyrimspecialedition/mods/1088) | Removes the intro logo when loading the game. | Not needed. |
+| 2 | [The Elder Scrolls Legends - Loading Screens.](https://www.nexusmods.com/skyrimspecialedition/mods/37929) | Pretty 2d art loading screens. | [The Elder Scrolls Legends - Loading Screens - Spanish Translation.](https://www.nexusmods.com/skyrimspecialedition/mods/89506) |
+
+# Character creation
+
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [Better male presets.](https://www.nexusmods.com/skyrimspecialedition/mods/2001) | Adds a set of human and elf male presets that are more attractive than the vanilla versions, to make character creation a little easier. | Not needed. |
+| 2 |
+
 
 # Fixes/helpers
 
